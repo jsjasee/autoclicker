@@ -9,7 +9,7 @@
 - 🔘 **Graphical User Interface (GUI)** with Tkinter
 - 🕹️ **Customizable hotkeys** to start/stop clicking
 - ⏱️ **Adjustable click interval** (e.g. 0.1s per click)
-- 🎯 Optional keypress simulation after each click
+- 🎯 Optional keypress simulation after each click -> Suitable for games requiring repetitive key presses like Grow a Garden to harvest fruits
 - 🛑 Input validation for safe configurations
 - ⚡ High-performance clicking via `pynput.mouse` for low-latency
 
